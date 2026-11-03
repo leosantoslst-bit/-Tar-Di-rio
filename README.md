@@ -1,2 +1,2 @@
-# -Tar-Di-rio
+# -Taro-Diario
 Tarô online grátis
